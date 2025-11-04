@@ -1,9 +1,8 @@
-# netlify.toml
-
 [build]
-  command = "npm i -g npm@9 && npm ci && npm run build"
+  command = "npm run build"
   
   publish = ".output/public"
 
 [build.environment]
   NODE_VERSION = "20"
+  NPM_VERSION = "9"
