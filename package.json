@@ -29,9 +29,5 @@
     "@iconify-json/fa7-solid": "^1.2.2",
     "@iconify-json/material-symbols": "^1.2.42",
     "@types/node": "^24.7.1"
-  },
-  "optionalDependencies": {
-    "@oxc-parser/binding-linux-x64-gnu": "^0.96.0",
-    "@oxc-transform/binding-linux-x64-gnu": "^0.96.0"
   }
 }
